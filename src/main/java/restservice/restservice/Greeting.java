@@ -1,5 +1,6 @@
 package restservice.restservice;
 
+// Like A Model In NODE
 public class Greeting {
 
     private final long id;
